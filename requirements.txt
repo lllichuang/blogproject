@@ -1,4 +1,4 @@
-Django==1.11.17
+Django==1.11.23
 django-haystack==2.8.1
 django-summernote==0.8.11.4
 jieba==0.38
